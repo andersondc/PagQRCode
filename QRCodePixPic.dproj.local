@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/20 15:11:48.000.998,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/21 15:02:13.000.195,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 08:48:07.000.546,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 08:48:38.000.364,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\PixPicPay\Principal.pas</Transaction>
+    <Transaction>2021/07/27 08:48:38.000.364,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\PixPicPay\Principal.dfm</Transaction>
+    <Transaction>2021/07/27 08:48:47.000.790,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\PixPicPay\QRCodePixPic.dproj</Transaction>
+    <Transaction>2021/07/27 09:29:45.000.826,=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\PixPicPay\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 09:29:55.000.967,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\PixPicPay\Unit1.pas=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\PixPicPay\Config.pas</Transaction>
+    <Transaction>2021/07/27 09:29:55.000.967,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\PixPicPay\Unit1.dfm=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\PixPicPay\Config.dfm</Transaction>
+    <Transaction>2021/07/27 10:24:48.058,=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\PixPicPay\QRCodeAPIGoogle.pas</Transaction>
+  </Transactions>
+</BorlandProject>

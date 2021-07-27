@@ -1,0 +1,45 @@
+object FQRCodeAPIGoogle: TFQRCodeAPIGoogle
+  Left = 0
+  Top = 0
+  Caption = 'FQRCodeAPIGoogle'
+  ClientHeight = 371
+  ClientWidth = 440
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 440
+    Height = 371
+    Align = alClient
+    TabOrder = 0
+    ExplicitLeft = 8
+    ExplicitTop = 8
+    ExplicitWidth = 385
+    ExplicitHeight = 313
+    object ImageQRCode: TImage
+      Left = 8
+      Top = 8
+      Width = 281
+      Height = 273
+      Center = True
+      Proportional = True
+      Stretch = True
+    end
+    object ComboBox1: TComboBox
+      Left = 8
+      Top = 287
+      Width = 281
+      Height = 21
+      TabOrder = 0
+      Text = 'ComboBox1'
+    end
+  end
+end
